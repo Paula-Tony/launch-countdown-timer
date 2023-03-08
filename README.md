@@ -1,2 +1,3 @@
-# launch-countdown-timer
-Frontend Mentor - launch-countdown-timer-main
+# Frontend Mentor - Launch countdown timer
+
+![Design preview for the Launch countdown timer coding challenge](./design/desktop-preview.jpg)
